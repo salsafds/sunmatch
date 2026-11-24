@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# File cache Python
+__pycache__/
+*.pyc
+
+# Database (dibuat ulang lewat seed.py)
+data/sunmatch.db
+
+# File sementara Excel saat file sedang dibuka
+~$*.xlsx
+
+# Pengaturan pribadi VS Code & rahasia Streamlit
+.vscode/
+.streamlit/secrets.toml

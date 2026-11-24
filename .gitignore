@@ -2,7 +2,7 @@
 venv/
 
 # File cache Python
-__pycache__/
+_pycache_/
 *.pyc
 
 # Database (dibuat ulang lewat seed.py)
